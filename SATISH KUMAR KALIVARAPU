@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Satish Kumar | You Are the Cosmos</title>
+  <style>
+    body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 0; background: #10131a; color: #fff; }
+    header { background: #1a1d2b; padding: 2rem 1rem; text-align: center; }
+    h1 { margin: 0 0 0.3em 0; font-size: 2.5em; }
+    h2 { color: #88f7ff; border-bottom: 1px solid #28476d; margin-top: 2em; }
+    a { color: #56c6e6; text-decoration: none; }
+    .section { max-width: 800px; margin: 2em auto; padding: 1em; background: #1d2033; border-radius: 2em 2em 0 0; box-shadow: 0 2px 4px #0004; }
+    .book-cover { display: block; margin: 1em auto; max-width: 200px; }
+    ul { margin: 1em 0; padding-left: 1.5em; }
+    .reviews { background: #232444; border-radius: 1em; padding: 1em; }
+    .contact { margin-top: 2em; background: #212d3b; border-radius: 1em; padding: 1em; text-align: center; }
+    .social-links a { margin: 0 0.5em; }
+    .newsletter { background: #183c45; border-radius: 1em; padding: 1em; text-align: center; margin-top: 2em; }
+    .gallery { text-align: center; }
+    @media (max-width:700px) { .section { padding: 0.5em; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Satish Kumar</h1>
+    <p><strong>Author of "You Are the Cosmos: A Journey Through Space"</strong></p>
+    <nav class="social-links">
+      <a href="https://www.instagram.com/satish_kalivarapu?igsh=YnRrbHA0OHY5b290" title="Instagram" target="_blank">Instagram</a>
+    </nav>
+  </header>
+
+  <section class="section" id="about">
+    <h2>About</h2>
+    <p>Satish Kumar is a passionate science communicator who makes the cosmos accessible to all. His writing blends scientific rigor with philosophical wonder, inviting each reader to feel their connection to the stars.</p>
+    <p>Email: <a href="mailto:kalivarapu.satish1@gmail.com">kalivarapu.satish1@gmail.com</a></p>
+  </section>
+
+  <section class="section" id="book">
+    <h2>My Book</h2>
+    <p><strong>You Are the Cosmos: A Journey Through Space</strong></p>
+    <p>This book takes you from the Big Bang to black holes, exploring the illusion of time, dark matter, alien life, and humanity's place in the universe. Each chapter mixes cutting-edge science with poetic perspective and meaning.</p>
+    <ul>
+      <li>Big Bang & cosmic evolution</li>
+      <li>Time and its mysteries</li>
+      <li>Dark matter & dark energy</li>
+      <li>Black holes, multiverse, alien life</li>
+      <li>Consciousness & our cosmic role</li>
+    </ul>
+    <p><a href="https://amzn.in/d/iPWPQMT" target="_blank">Buy on Amazon (Kindle/Paperback)</a></p>
+  </section>
+
+  <section class="section" id="excerpts">
+    <h2>Excerpts</h2>
+    <blockquote>
+      "You are not just in the universe—you are the universe. This is not a metaphor, but a startling scientific truth hidden in plain sight."
+    </blockquote>
+    <blockquote>
+      "The iron in your blood, the calcium in your bones, the oxygen you breathe—they were all forged in the hearts of massive stars that lived and died billions of years ago."
+    </blockquote>
+  </section>
+
+  <section class="section reviews" id="reviews">
+    <h2>Reader Reviews</h2>
+    <ul>
+      <li>“A profound and accessible journey into the mysteries of existence.”</li>
+      <li>“Every chapter inspires wonder while making complex science approachable.”</li>
+      <li>“A must-read for seekers, dreamers, and anyone staring up at the night sky.”</li>
+    </ul>
+    <p><a href="https://amzn.in/d/iPWPQMT" target="_blank">Read more reviews on Amazon</a></p>
+  </section>
+
+  <section class="section" id="events">
+    <h2>Media &amp; Events</h2>
+    <ul>
+      <li>Guest appearance on "Cosmic Conversations" Podcast: August 2025</li>
+      <li>Live Q&amp;A Session (Instagram Live): September 2025</li>
+    </ul>
+  </section>
+
+  <section class="section newsletter" id="newsletter">
+    <h2>Get Involved</h2>
+    <p>Sign up for my newsletter for updates, essays, and behind-the-scenes stories:</p>
+    <form>
+      <input type="email" placeholder="Your email address" required />
+      <button type="submit" disabled>Sign Up (Coming Soon)</button>
+    </form>
+    <small>No spam. Unsubscribe anytime.</small>
+  </section>
+
+  <section class="section gallery" id="gallery">
+    <h2>Author Gallery</h2>
+    <p>(Photo gallery coming soon!)</p>
+  </section>
+
+  <section class="contact" id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:kalivarapu.satish1@gmail.com">kalivarapu.satish1@gmail.com</a></p>
+    <p>Connect: <a href="https://www.instagram.com/satish_kalivarapu?igsh=YnRrbHA0OHY5b290" target="_blank">Instagram</a></p>
+    <p>Thank you for visiting! The universe is waiting—let's explore it together.</p>
+  </section>
+  
+</body>
+</html>
